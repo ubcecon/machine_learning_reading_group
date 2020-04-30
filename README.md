@@ -1,2 +1,3 @@
-# machine_learning_reading_group
+# machine learning reading group
 Reading group on machine learning
+
